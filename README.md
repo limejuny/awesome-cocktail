@@ -26,6 +26,10 @@
       * [키퍼스](#키퍼스)
       * [폴스타](#폴스타)
       * [화이트바](#화이트바)
+  * [경기](#경기)
+    * [판교](#판교)
+      * [엔젤스셰어](#엔젤스셰어)
+      * [테일즈](#테일즈)
 * [용어정리](#용어정리)
 
 ## 유의사항
@@ -292,6 +296,41 @@
 - 특징
   - 커버 차지 없음
   - 진 종류가 많음
+
+### 경기
+
+#### 판교
+
+##### [`엔젤스셰어`](https://place.map.kakao.com/24767187)
+
+- 가격
+  - |종류|가격|
+    |--|--|
+- 연락처
+  - 031-702-3551
+- 영업시간
+  - 매일 19:00 ~ 03:00
+- 공식 SNS
+  - [Instagram](https://www.instagram.com/angelsshare_korea/)
+  - [Facebook](https://www.facebook.com/angelssharebar)
+- 특징
+  - 커버 차지 5,000원
+  - (지금은 없어진) 연남 엔젤스셰어랑은 관련 없는 업장
+
+##### [`테일즈`](https://place.map.kakao.com/1097302704)
+
+- 가격
+  - |종류|가격|
+    |--|--|
+- 연락처
+  - 031-714-3551
+- 영업시간
+  - 매일 19:00 ~ 03:00
+- 공식 SNS
+  - [Instagram](https://www.instagram.com/tales_korea/)
+  - [Facebook](https://www.facebook.com/bartaleskorea)
+- 특징
+  - 커버 차지 5,000원
 
 ## 용어정리
 
