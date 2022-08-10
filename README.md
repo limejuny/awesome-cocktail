@@ -1,3 +1,19 @@
+<h1 align="center">
+ <a>
+  <img src="https://raw.githubusercontent.com/eggmoid/awesome-cocktail/master/martini_glass.svg" style="width: 100px;"/>
+ </a>
+ <br> Awesome Cocktail
+</h1>
+
+<p align="center">
+ <a href="https://awesome.re">
+  <img src="https://awesome.re/badge.svg" alt="Awesome">
+ </a>
+ <a href="https://hits.seeyoufarm.com">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feggmoid%2Fawesome-cocktail&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
+ </a>
+</p>
+
 ## 개요
 
 국내 칵테일/위스키 바 리스트를 정리한 레포지토리입니다.
