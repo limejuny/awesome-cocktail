@@ -388,6 +388,24 @@
 
 #### 연남
 
+##### [`사이드노트클럽`](https://place.map.kakao.com/783970127)
+
+- 가격
+  - |종류|가격|
+    |--|--|
+- 연락처
+  - 02-330-7900
+  - 02-330-7700 (운영시간 외)
+  - all@sidenoteclub.net
+- 영업시간
+  - 월-토 18:00 ~ 02:00
+  - 일 16:00 ~ 00:00 (공휴일 전날일 경우 기존 영업시간 적용)
+- 공식 SNS
+  - [Homepage](https://www.rysehotel.co.kr/side-note-club/)
+  - [캐치테이블](https://app.catchtable.co.kr/ct/shop/sidenoteclub)
+- 특징
+  - 라이즈 호텔 15층 (루프탑)
+
 ##### [`올드패션드`](https://place.map.kakao.com/27462176)
 
 - 가격
