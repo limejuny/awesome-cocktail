@@ -53,6 +53,8 @@
       * [책바](#책바)
       * [코블러 연희](#코블러-연희)
       * [하울 인 더 바](#하울-인-더-바)
+    * [영등포](#영등포)
+      * [바밤바](#바밤바)
     * [왕십리](#왕십리)
       * [더 클래식](#더-클래식)
       * [one맥주창고](#one맥주창고)
@@ -470,6 +472,26 @@
   - 월 휴무
 - 공식 SNS
   - [Instagram](https://www.instagram.com/howl_in_the_bar/)
+
+- - -
+
+#### 영등포
+
+##### [`바밤바`](https://place.map.kakao.com/14576513)
+
+- 가격
+  - |종류|가격|
+    |--|--|
+- 연락처
+  - 02-3667-7678
+- 영업시간
+  - 화~금 18:00 ~ 01:00
+  - 토,일 17:00 ~ 01:00
+  - 공휴일 19:00 ~ 00:00
+  - 월 휴무
+- 공식 SNS
+  - [Instagram](https://www.instagram.com/yosajangtv/)
+  - [YouTube](https://www.youtube.com/channel/UCzww46F6Cjj_I751OtLSXSQ)
 
 - - -
 
